@@ -2,8 +2,22 @@ h1 {
   color: black;
 }
 
-.logo {
+.logo{
     height: 100px;
     width: auto;
+}
+
+.mypicture{
+    height: 300px;
+    width: auto;
+}
+
+.glow {
+    color: lime;
+    text-shadow:
+        0 0 5px rgba(255, 0, 0, 0.8),
+        0 0 10px rgba(255, 0, 0, 0.6),
+        0 0 15px rgb(232, 213, 213),
+        0 0 20px rgba(0, 0, 255, 0.3);
 }
 

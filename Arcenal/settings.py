@@ -38,7 +38,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Yalong.urls'
+ROOT_URLCONF = 'Arcenal.urls'
 
 TEMPLATES = [
     {
@@ -56,7 +56,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Yalong.wsgi.application'
+WSGI_APPLICATION = 'Arcenal.wsgi.application'
 
 
 # Database
